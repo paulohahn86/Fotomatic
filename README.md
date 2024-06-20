@@ -7,5 +7,4 @@ In this project I was able to use the main concepts of HTML and CSS and create a
 Insert different types of layout into the project, such as flexbox and Grid.
 
 
-
-
+https://paulohahn86.github.io/Fotomatic_broken/
